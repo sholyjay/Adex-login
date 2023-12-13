@@ -1,0 +1,212 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background-image: url("./image/uda12.jpg");
+    line-height: 1.42857143;
+    direction: ltr;
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+}
+
+.top{
+    margin-left: 45.8%;
+}
+
+#form-wrapper{
+    margin-top: 10px;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding-top: 15px;
+    box-shadow: 1px 2px 2px 2px rgba(0,0,0,0.55);
+    height: 450px;
+}
+
+.rounded{
+    border-radius: 0.25rem !important;
+}
+
+.p-4{
+    padding: 1.5rem !important;
+}
+
+.border{
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: rgb(222, 226, 230);
+    border-image: initial !important;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.a{
+    font-size: 1.75rem;
+    margin-top: 0px;
+}
+
+.login-seperater span{
+    position: relative;
+    top: 20px;
+    color: rgb(203, 203, 203);
+    z-index: 1;
+    background-color: rgb(255, 255, 255);
+    padding: 4px;
+    border-radius: 2px;
+}
+
+.text-center{
+    text-align: center !important;
+}
+
+.mb-1{
+    margin-bottom: 2px !important;
+}
+
+.kim{
+    color: rgb(76, 82, 88);
+}
+
+hr{
+    height: 1px;
+    opacity: 1;
+}
+
+.col-1{
+    width: 100%;
+}
+
+.form-label{
+    margin-bottom: 1px;
+    color: rgb(76, 82, 88);
+    font-size: 14px;
+    font-weight: 200;
+    letter-spacing: 0.5px;
+    font-family: sans-serif;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+label{
+    display: inline-block;
+}
+
+.form-control{
+    display: inline-block;
+    width: 100%;
+    font-size: 15px;
+    font-weight: 300px;
+    line-height: 28px;
+    color: rgb(33, 37, 41);
+    background-color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+}
+
+.col-2{
+    width: 100%;
+}
+
+.form-label1{
+    margin-bottom: 1px;
+    color: rgb(76, 82, 88);
+    font-size: 14px;
+    font-weight: 200;
+    letter-spacing: 0.5px;
+    font-family: sans-serif;
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.form-control1{
+    display: inline-block;
+    width: 100%;
+    font-size: 15px;
+    font-weight: 300px;
+    line-height: 28px;
+    color: rgb(33, 37, 41);
+    background-color: rgb(255, 255, 255);
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 3px;
+}
+
+.form-wrapper{
+    padding-top: 12px;
+}
+
+.form-swich{
+    padding-left: 5px;
+    margin-top: 30px;
+}
+
+.form-check{
+    display: block;
+    min-height: 1.5rem;
+    color: rgb(76, 82, 88);
+}
+
+.pablo{
+    font-weight: 400;
+    padding-left: 60px;
+}
+
+.tom{
+    display: grid;
+}
+
+.btn{
+    display:inline-block;
+    font-weight: 400;
+    margin-top: 8px;
+    line-height: 7px;
+    text-align: center;
+    letter-spacing: 0.2rem;
+    vertical-align: middle;
+    font-size: 1rem;
+    text-decoration: none;
+    border-width: 1rem;
+    border-color: transparent;
+    border-style: solid;
+    border-radius: 4px;
+}
+
+.btn-login{
+    background-color: brown;
+    color: white;
+}
+
+.kkk{
+    color: white;
+}
+
+.kkk:hover{
+    color:black;
+    transition: 2s ease-in-out;
+}
+
+::placeholder{
+    color: rgb(206, 212, 218);
+    padding-left: 10px;
+}
+
+.item{
+    margin-left: 10px;
+    width: 40%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
